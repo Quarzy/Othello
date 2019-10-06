@@ -1,0 +1,5 @@
+.idea
+node_modules
+src/*/*/dist/js
+src/*/*/js-compiled
+typescriptpractice.iml
